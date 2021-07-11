@@ -4,7 +4,7 @@
  * @author Rekha
  * @since 12-07-2021
  */
-console.log("Welcome to Employee Wage Program")
+
 //Generating a random number
 let employeeChecker =  Math.floor((Math.random() * 10) % 2);
 
